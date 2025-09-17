@@ -1,6 +1,6 @@
 <img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
 
-# Top 3 Competitors of Rotary Ski \& Snowboard
+# Top 3 Competitors of Rotary Ski & Snowboard
 
 Based on extensive local market research, here are the three primary competitors for rotaryski.com from a local search and business perspective:
 

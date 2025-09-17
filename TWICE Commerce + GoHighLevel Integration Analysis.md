@@ -4,7 +4,7 @@
 
 ## **Yes, TWICE Commerce can integrate with GoHighLevel through multiple methods**
 
-Based on extensive research, TWICE Commerce offers **strong integration capabilities** with GoHighLevel, making it a viable solution for Rotary Ski \& Snowboard's marketing automation needs.
+Based on extensive research, TWICE Commerce offers **strong integration capabilities** with GoHighLevel, making it a viable solution for Rotary Ski & Snowboard's marketing automation needs.
 
 ## Integration Capabilities Confirmed
 

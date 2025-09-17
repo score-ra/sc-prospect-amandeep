@@ -8,7 +8,7 @@
 - **Role/Title**:  
 - **Email**: info@countonfinance.com  
 - **Phone**:  
-- **LinkedIn**: https://www.linkedin.com/in/amandeepsingh93linkedin  
+- **LinkedIn**: https://www.linkedin.com/in/amandeepsingh93  
 - **Preferred Channel**:  
 
 ### Secondary Contact

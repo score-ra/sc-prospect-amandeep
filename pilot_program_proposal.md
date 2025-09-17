@@ -161,7 +161,7 @@ Based on stakeholder feedback and risk concerns, we propose a focused pilot prog
 - Customer data exported weekly to local storage
 - Full data export provided at any time
 - GDPR-compliant data deletion if pilot discontinued
-- Data ownership remains with Singh Rotary Sports Shop LLC
+- Data ownership remains with Singh Rotary Sports Shop, LLC
 
 **"What happens to data if we cancel?"**
 **Answer**: Complete data portability guaranteed
